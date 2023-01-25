@@ -1,2 +1,2 @@
 # SecondPoject
-Learning Git
+Learning Git. Hello everyone!
